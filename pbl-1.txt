@@ -1,1 +1,2 @@
-Hari pertama belajar git
+Hari pertama belajar install git
+Hari kedua belajar git
